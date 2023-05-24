@@ -4,10 +4,10 @@
   <img src="https://media3.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47zknbp28kdvrxc72tg2akr0k5ouuu0uxwlpop0soq&ep=v1_gifs_related&rid=giphy.gif" width="200"/>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/santiago-ruiz-43568a1b4/" target="_blank">
+    <a href="https://www.linkedin.com/in/jesus-brice%C3%B1o-848b18183/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=santiago.aruiz28@gmail.com&su=Contacto%20desde%20github&body=Hola%20Santiago%20Gusto%20saludarte">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jesusebzcp19@gmail.com&su=Contacto%20desde%20github&body=Hola%Jesus%20Gusto%20saludarte">
       <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
   </div>
