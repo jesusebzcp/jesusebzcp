@@ -25,7 +25,7 @@ I'm a fullstack developer from Colombia mainly in the Javascript area, but I als
 ## Technologies I use 🔝
 | Programming languages | Backend | Frontend |
 | --- | --- | --- |
-| ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) |
+| ![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) |
 
 | Databases | Cloud Services | Dev Tools |
 | --- | --- | --- |
@@ -34,6 +34,6 @@ I'm a fullstack developer from Colombia mainly in the Javascript area, but I als
 ## My Stats :fire:
 
 <div align="center" style="display: flex; flex-direction: row;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salejo28&theme=dark&hide_border=true" alt="Stats salejo28" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salejo28&theme=dark&hide_border=true" alt="top languages salejo28" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jesusebzcp&theme=dark&hide_border=true" alt="Stats jesusebzcp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusebzcp&theme=dark&hide_border=true" alt="top languages jesusebzcp" />
 </div>
